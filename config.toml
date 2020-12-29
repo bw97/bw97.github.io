@@ -132,7 +132,7 @@ copyright = "Benjamin Wen" # default: author.name
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
     owner = "benjamin-wen"  # Your GitHub ID
-    repo = "https://github.com/benjamin-wen/gittalk"  # The repo to store comments
+    repo = "https://github.com/benjamin-wen/benjamin-wen.github.io"  # The repo to store comments
     clientId = "a1ca1edb5a244cd20662" 
     clientSecret = "16dabeb83f4417a4ba3408ae271b318525c95b04"       
 
