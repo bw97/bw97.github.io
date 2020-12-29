@@ -129,9 +129,9 @@ copyright = "Benjamin Wen" # default: author.name
     options = ""            # default: "{theme: 'simple'}"
 
   [params.social]  # 社交链接
-    a-github = "http://localhost:1313"
-    b-stack-overflow = "http://localhost:1313"
-    c-linkedin = "http://localhost:1313"
+    a-github = "https://github.com/benjamin-wen"
+    b-stack-overflow = "https://stackoverflow.com/users/5492956"
+    c-linkedin = "https://www.linkedin.com/in/benjaminwen-dev"
     #d-email = "mailto:your@email.com"
     
 
