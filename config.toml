@@ -133,6 +133,12 @@ copyright = "Benjamin Wen" # default: author.name
     b-stack-overflow = "https://stackoverflow.com/users/5492956"
     c-linkedin = "https://www.linkedin.com/in/benjaminwen-dev"
     #d-email = "mailto:your@email.com"
+
+  [params.gitalk]         # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+    owner = "benjamin-wen"              # Your GitHub ID
+    repo = "https://github.com/benjamin-wen/benjamin-wen.github.io"    # The repo to store comments
+    clientId = "a1ca1edb5a244cd20662"           
+    clientSecret = "609185b6c38552bf32619a82b5b81ab6a5961719"       
     
 
 # See https://gohugo.io/about/hugo-and-gdpr/
