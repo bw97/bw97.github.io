@@ -44,6 +44,11 @@ copyright = "Benjamin Wen" # default: author.name
   weight = 30
   identifier = "tags"
   url = "/tags/"
+[[menu.main]]
+  name = "About"
+  weight = 40
+  identifier = "about"
+  url = "/about/"
 
 [params]
   version = "4.x"   # Used to give a friendly message when you have an incompatible update
