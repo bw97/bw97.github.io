@@ -48,13 +48,29 @@ Now I have to rush to an end because I'm not satified or comfortable with my wri
 
 [Leslie Cheung](https://www.imdb.com/name/nm0002000/) is my favorite singer. I listened most of his songs and created a playlist containing 50 songs of his. He is definitely my yearly singer.
 
+{{% music "188591" %}}
+
 Other songs:
 
 * Famous Blue Raincoat - Leonard Cohen
+
+{{% music "5195055" %}}
+
 * Everything Will Flow - Suede
+
+{{% music "4279075" %}}
+
 * Wake Me Up When September Ends - Green Day
+
+{{% music "18127334" %}}
+
 * Boulevard Of Broken Dreams - Green Day
-* Know Your Enemy - Green Day
+
+{{% music "5159464" %}}
+
+* Last Night On Earth - Green Day
+
+{{% music "18127622" %}}
 
 Actually there are many, but it would be a huge task to list them all.
 
