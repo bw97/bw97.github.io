@@ -6,7 +6,7 @@ tags: ["2020"]
 toc: true
 ---
 
-### 🙀 Anxiety
+## 🙀 Anxiety
 
 2020 was tough for many, and for me as well.
 
@@ -42,9 +42,9 @@ So this was quite a year.
 
 Now I have to rush to an end because I'm not satified or comfortable with my writing skills.
 
-### 🧾 Things 
+## 🧾 Things 
 
-#### Music
+### Music
 
 [Leslie Cheung](https://www.imdb.com/name/nm0002000/) is my favorite singer. I listened most of his songs and created a playlist containing 50 songs of his. He is definitely my yearly singer.
 
@@ -58,39 +58,39 @@ Other songs:
 
 Actually there are many, but it would be a huge task to list them all.
 
-#### Podcasts
+### Podcasts
 
 * [EconTalk](http://econtalk.org)
 * [Swift by Sundell](http://swiftbysundell.com)
 * [A Nobody](https://anobody.im)
 
-#### TV series & Movies
+### TV series & Movies
 
 * [Spartacus](https://www.imdb.com/title/tt1442449/)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
 * [Interstellar](https://www.imdb.com/title/tt0816692/)
 
-#### YouTube Channels
+### YouTube Channels
 
 * [The Cherno](https://youtube.com/c/TheChernoProject)
 * [DecisionMade](https://youtube.com/c/DecisionMade)
 * [李永乐老师](https://youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
 * [Lucy Bella](https://youtube.com/channel/UCF6eEVtJokEFdaTDL5BKT4w)
 
-#### Books
+### Books
 
 None, because I had read merely two or three books, and I can remember them now.
 
-#### Tech
+### Tech
 
 * SwiftUI
 * C++
 
-#### Sport
+### Sport
 
 My major sport was biking. I rided almost every workday as a way of commuting. Thanks to biking and moderate diet, I didn't put on weight.
 
-#### Trip
+### Trip
 
 I went to Yangjiang with my family in July. 
 
