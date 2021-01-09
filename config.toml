@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 5                                              # 首页每页显示的文章数
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "benjaminwen"      # disqus_shortname
 googleAnalytics = "UA-186240064-1"      # UA-XXXXXXXX-X
 copyright = "Benjamin Wen" # default: author.name
 
@@ -132,14 +132,8 @@ copyright = "Benjamin Wen" # default: author.name
     a-github = "https://github.com/benjamin-wen"
     b-stack-overflow = "https://stackoverflow.com/users/5492956"
     c-linkedin = "https://www.linkedin.com/in/benjaminwen-dev"
-    #d-email = "mailto:your@email.com"
-
-  [params.gitalk]         # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-    owner = "benjamin-wen"    # Your GitHub ID
-    repo = "blog-comments"    # The repo to store comments (the repo name only, not the full repo url)
-    clientId = "a1ca1edb5a244cd20662"           
-    clientSecret = "609185b6c38552bf32619a82b5b81ab6a5961719"       
-    
+    #d-email = "mailto:your@email.com"  
+   
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
