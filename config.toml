@@ -1,7 +1,7 @@
 baseURL = "https://benjaminwen.com/"
 languageCode = "en"
 defaultContentLanguage = "en"  # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Strive for excellence"
+title = "Benjamin Wen"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
