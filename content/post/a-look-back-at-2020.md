@@ -46,33 +46,17 @@ Now I have to rush to an end because I'm not satified or comfortable with my wri
 
 ## Music
 
-[Leslie Cheung](https://www.imdb.com/name/nm0002000/) is my favorite singer. I listened most of his songs and created a playlist containing 50 songs of his. He is definitely my yearly singer.
+* Singer: **Leslie Cheung**
 
-{{% music "188591" %}}
+* Songs:
 
-Other songs:
+    * 猎户星座 - 朴树  
 
-* Famous Blue Raincoat - Leonard Cohen
+    * Famous Blue Raincoat - Leonard Cohen
 
-{{% music "5195055" %}}
+    * Everything Will Flow - Suede
 
-* Everything Will Flow - Suede
-
-{{% music "4279075" %}}
-
-* Wake Me Up When September Ends - Green Day
-
-{{% music "18127334" %}}
-
-* Boulevard Of Broken Dreams - Green Day
-
-{{% music "5159464" %}}
-
-* Last Night On Earth - Green Day
-
-{{% music "18127622" %}}
-
-Actually there are many, but it would be a huge task to list them all.
+    * Last Night On Earth - Green Day
 
 ## Podcasts
 
@@ -95,7 +79,7 @@ Actually there are many, but it would be a huge task to list them all.
 
 ## Books
 
-None, because I had read merely two or three books, and I can remember them now.
+None, because I had merely read two or three books, and I can't remember any of them now.
 
 ## Tech
 
