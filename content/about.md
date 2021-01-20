@@ -11,3 +11,5 @@ comment: false
 Hi there, I'm Benjamin, a software engineer in China. I work on iOS development mainly. 
 
 In this place, I'd like to share things (tech stuff, opinions, stories or whatever).
+
+![](/img/yunnan-seagulls.jpeg)
