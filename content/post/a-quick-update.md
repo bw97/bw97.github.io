@@ -2,7 +2,6 @@
 title: "A Quick Update"
 date: 2021-09-07T20:25:09+08:00
 draft: false
-tags: 
 toc: false
 ---
 
