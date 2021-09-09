@@ -5,7 +5,7 @@ draft: false
 toc: false
 ---
 
-I'm gonna be honest. Sometimes my performance are far from good. Terrible, I mean.
+I'm gonna be honest. Sometimes my performance is far from good. Terrible, I mean.
 
 However, this won't prevent me from sharing my practice to maintain performance. I think it is helpful. My practice includes keeping work log and self assessment.
 
