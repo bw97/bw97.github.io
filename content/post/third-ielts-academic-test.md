@@ -12,8 +12,6 @@ toc: false
 
 In this week, I took my third IELTS test. Results as below:
 
-This time:
-
 | Listening | Reading | Writing | Speaking | General |
 | :-------: |:-------:| :------:| :------: | :------: |
 | 6.5 | 8.5 | 6 | 6 | 7 |
