@@ -57,7 +57,7 @@ copyright = "Benjamin Wen" # default: author.name
   since = "2020"            # Site creation time   # 站点建立时间
   # use public git repo url to link lastmod git commit, enableGitInfo should be true.
   # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
-  gitRepo = "https://github.com/benjamin-wen/benjamin-wen.github.io"
+  gitRepo = "https://github.com/bw97/bw97.github.io"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "🍀"        # default: the title value    # 默认值: 上面设置的title值
@@ -129,9 +129,9 @@ copyright = "Benjamin Wen" # default: author.name
     options = ""            # default: "{theme: 'simple'}"
 
   [params.social]  # 社交链接
-    a-github = "https://github.com/benjamin-wen"
+    a-github = "https://github.com/bw97"
     b-stack-overflow = "https://stackoverflow.com/users/5492956"
-    c-linkedin = "https://www.linkedin.com/in/benjaminwen-dev"
+    c-linkedin = "https://www.linkedin.com/in/bw977"
     #d-email = "mailto:your@email.com"  
    
 
