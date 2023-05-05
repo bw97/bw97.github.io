@@ -1,4 +1,4 @@
-baseURL = "https://benjaminwen.com/"
+baseURL = "https://wzso.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"  # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Benjamin Wen"
@@ -129,9 +129,9 @@ copyright = "Benjamin Wen" # default: author.name
     options = ""            # default: "{theme: 'simple'}"
 
   [params.social]  # 社交链接
-    a-github = "https://github.com/bw97"
+    a-github = "https://github.com/wzso"
     b-stack-overflow = "https://stackoverflow.com/users/5492956"
-    c-linkedin = "https://www.linkedin.com/in/bw977"
+    c-linkedin = "https://www.linkedin.com/in/wzso"
     #d-email = "mailto:your@email.com"  
    
 
