@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://benjaminwen.com/sitemap.xml
+Sitemap: https://wzso.github.io/sitemap.xml
