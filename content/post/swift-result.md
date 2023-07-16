@@ -3,7 +3,7 @@ title: "Notes: Swift Result"
 date: 2023-07-16T09:35:21+08:00
 draft: false
 tags: ["swift"]
-toc: false
+toc: true
 ---
 
 # Definition
