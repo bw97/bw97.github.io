@@ -118,3 +118,18 @@ extension Result where Failure == Error {
     public init(catching body: () throws -> Success)
 }
 ```
+
+# Use with `Never`
+
+Since `Never` conforms to `Error` protocol, it can be used as the failure value type in `Result`.
+
+```swift
+let result: Result<Int, Never> = .success(100)
+
+switch result {
+case .success(let number):
+    print(number)
+//case .failure(_): // compiler won't yell at you without the failure case.
+//    break
+}
+```
