@@ -49,6 +49,11 @@ copyright = "wzso" # default: author.name
   weight = 40
   identifier = "about"
   url = "/about/"
+[[menu.main]]
+  name = "Running"
+  weight = 50
+  identifier = "running"
+  url = "/running_page/"
 
 [params]
   version = "4.x"   # Used to give a friendly message when you have an incompatible update
